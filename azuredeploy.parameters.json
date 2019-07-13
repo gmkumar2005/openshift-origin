@@ -54,7 +54,7 @@
 			"value": "bjckeyvault"
 		},
 		"keyVaultSecret": {
-			"value": ""
+			"value": "bjckeyvault"
 		},
 		"enableAzure": {
 			"value": "true"
