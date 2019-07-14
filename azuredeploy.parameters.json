@@ -6,13 +6,13 @@
 			"value": "https://raw.githubusercontent.com/gmkumar2005/openshift-origin/master"
 		},
 		"masterVmSize": {
-			"value": "Standard_B2s"
+			"value": "Standard_A4"
 		},
 		"infraVmSize": {
-			"value": "Standard_B2s"
+			"value": "Standard_A4"
 		},
 		"nodeVmSize": {
-			"value": "Standard_B2s"
+			"value": "Standard_A4"
 		},
 		"storageKind": {
 			"value": "managed"
